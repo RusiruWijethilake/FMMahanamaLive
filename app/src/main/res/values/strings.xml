@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">FM Mahanama</string>
+    <string name="txt_nowplaying">Now Playing</string>
+    <string name="txt_by">by</string>
+    <string name="txt_buffer">loading....</string>
+    <string name="txt_poweredby">Powered by Microlion Technologies</string>
+    <string name="ad_id_home_top">ca-app-pub-3099844222644832/3478477132</string>
+    <string name="ad_id_score_top">ca-app-pub-3099844222644832/2162246216</string>
+    <string name="txt_offline">Stream Offline</string>
+    <string name="txt_checkfacebook">Stream is offline right now or something wrong with your inernet connection.</string>
+    <string name="txt_nothing_placeholder">No information provided</string>
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+    <string name="txt_about_official">Official Android App</string>
+    <string name="txt_about_designed">Designed and developed by Microlion Technologies for Mahanama College Radio Club.</string>
+    <string name="txt_about_desc">Listen to the live stream of FM Mahanama in anywhere with your Android device.  With the featured functions and effective stream play service it\'s easy to listen with your device now. Customized for better audio play. Also automatically updates when there are any change in the stream server. More effective than the www.mcmu.lk/fm-mahanama web listener.</string>
+    <string name="app_name_score">FM Mahanama Scoreboard</string>
+    <string name="txt_score_nomactch">Scoreboard Offline</string>
+    <string name="txt_score_nomatchdesc">There is no ongoing match right now to display score. Please visit our Facebook page for more information.</string>
+    <string name="txt_com_facebookpage">Our Facebook Page</string>
+    <string name="txt_score_tvmopen">Watch TV Mahanama</string>
+    <string name="txt_score_tvm_desc">TV Mahanama is now online and providing the live updates of the same match. Click below to watch.</string>
+    <string name="ad_id_com_openact">ca-app-pub-3099844222644832/9905924739</string>
+    <string name="txt_score_updates">Updates</string>
+    <string name="txt_com_no_internet">No internet connection. Please check your connection settings.</string>
+    <string name="txt_share_message">FM Mahanama is now OnAir! Download the official Android app from Play Store or visit http://fm.mcmu.lk for our web version.</string>
+    <string name="txt_com_open_web_ml">https://microlion.tk/products/apps/fm-mahanama</string>
+    <string name="txt_com_open_web_mcrcfb">mcradioclub</string>
+    <string name="txt_com_dialog_btn_moreinfo">More Info</string>
+    <string name="txt_com_dialog_offair_desc">FM Mahanama is not currently onair! You can check our facebook page for more information.</string>
+    <string name="txt_com_dialog_offair_title">Not OnAir!</string>
+    <string name="txt_com_dialog_btn_ok">Ok</string>
+    <string name="txt_com_dialog_btn_gotit">Got it</string>
+    <string name="txt_com_dialog_share_via">Share via</string>
+    <string name="txt_radio_id">FMM2020</string>
+    <string name="txt_score_share_msg">Grab the live scores with FM Mahanama. Download FM Mahanama app for Android app or visit http://fm.mcrc,lk for web experience</string>
+    <string name="txt_snack_stream_restart">Stream data updated. Restarting</string>
+</resources>
