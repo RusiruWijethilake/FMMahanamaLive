@@ -64,6 +64,7 @@
                                               <map>
                                                 <entry key="color" value="000000" />
                                                 <entry key="scalingPercent" value="66" />
+                                                <entry key="trimmed" value="true" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -75,7 +76,7 @@
                                     <map>
                                       <entry key="backgroundAssetType" value="COLOR" />
                                       <entry key="backgroundColor" value="ffffff" />
-                                      <entry key="foregroundImage" value="E:\Business Modules\FM Mahanama\UI\2020\Logo.png" />
+                                      <entry key="foregroundImage" value="E:\Office Workspace\Business Modules\FM Mahanama\UI-UX\App\2020-mid\logo-foreground.png" />
                                     </map>
                                   </option>
                                 </PersistentState>
